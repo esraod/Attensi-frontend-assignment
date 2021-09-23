@@ -1,0 +1,340 @@
+[
+    {
+        "category": "high_score",
+        "scope": "company",
+        "product_id": 1234,
+        "my_entry": {},
+        "entries": [
+            {
+                "user_id": 31676,
+                "username": "Gertrude",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-0ff2.svg",
+                "rank": 1,
+                "score": 97190
+            },
+            {
+                "user_id": 10146,
+                "username": "Katherine",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-b513.svg",
+                "rank": 2,
+                "score": 83812
+            },
+            {
+                "user_id": 22871,
+                "username": "Lon",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-6d67.svg",
+                "rank": 3,
+                "score": 76345
+            },
+            {
+                "user_id": 71393,
+                "username": "Brady",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9217.svg",
+                "rank": 4,
+                "score": 55090
+            },
+            {
+                "user_id": 23108,
+                "username": "Destinee",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-1280.svg",
+                "rank": 5,
+                "score": 52946
+            },
+            {
+                "user_id": 71027,
+                "username": "Cora",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-d2ce.svg",
+                "rank": 6,
+                "score": 46789
+            },
+            {
+                "user_id": 78125,
+                "username": "Corbin",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a6f4.svg",
+                "rank": 7,
+                "score": 42700
+            },
+            {
+                "user_id": 20834,
+                "username": "Christa",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-148c.svg",
+                "rank": 8,
+                "score": 38573
+            },
+            {
+                "user_id": 12718,
+                "username": "Dallas",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-74b0.svg",
+                "rank": 9,
+                "score": 19719
+            },
+            {
+                "user_id": 78533,
+                "username": "Vern",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a5b3.svg",
+                "rank": 10,
+                "score": 8647
+            }
+        ]
+    },
+    {
+        "category": "high_score",
+        "scope": "company",
+        "product_id": 4321,
+        "my_entry": {
+            "user_id": 50064,
+            "username": "Zola",
+            "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9198.svg",
+            "rank": 9,
+            "score": 39239
+        },
+        "entries": [
+            {
+                "user_id": 96391,
+                "username": "Clementina",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a6f4.svg",
+                "rank": 1,
+                "score": 84931
+            },
+            {
+                "user_id": 26490,
+                "username": "Aubrey",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-0ff2.svg",
+                "rank": 2,
+                "score": 73483
+            },
+            {
+                "user_id": 99413,
+                "username": "Salvatore",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-b019.svg",
+                "rank": 3,
+                "score": 68893
+            },
+            {
+                "user_id": 68238,
+                "username": "Lisandro",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-b019.svg",
+                "rank": 4,
+                "score": 67864
+            },
+            {
+                "user_id": 69222,
+                "username": "Evans",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a6f4.svg",
+                "rank": 5,
+                "score": 58232
+            },
+            {
+                "user_id": 99388,
+                "username": "Trystan",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-8776.svg",
+                "rank": 6,
+                "score": 47753
+            },
+            {
+                "user_id": 19977,
+                "username": "Maurine",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-93d5.svg",
+                "rank": 7,
+                "score": 39715
+            },
+            {
+                "user_id": 7153,
+                "username": "Benton",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-0ff2.svg",
+                "rank": 8,
+                "score": 39526
+            },
+            {
+                "user_id": 50064,
+                "username": "Zola",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9198.svg",
+                "rank": 9,
+                "score": 39239
+            },
+            {
+                "user_id": 84853,
+                "username": "Marina",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-1280.svg",
+                "rank": 10,
+                "score": 30470
+            },
+            {
+                "user_id": 19160,
+                "username": "Adela",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-b513.svg",
+                "rank": 11,
+                "score": 29319
+            },
+            {
+                "user_id": 77337,
+                "username": "Adrien",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9a80.svg",
+                "rank": 12,
+                "score": 23980
+            },
+            {
+                "user_id": 20282,
+                "username": "Dasia",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-0ff2.svg",
+                "rank": 13,
+                "score": 16632
+            },
+            {
+                "user_id": 25503,
+                "username": "Velva",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-6d67.svg",
+                "rank": 14,
+                "score": 11926
+            },
+            {
+                "user_id": 25505,
+                "username": "Kaela",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-0ff2.svg",
+                "rank": 15,
+                "score": 9759
+            },
+            {
+                "user_id": 2096,
+                "username": "Joannie",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9a80.svg",
+                "rank": 16,
+                "score": 8866
+            },
+            {
+                "user_id": 24579,
+                "username": "Frederik",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-bbed.svg",
+                "rank": 17,
+                "score": 8493
+            }
+        ]
+    },
+    {
+        "category": "high_score",
+        "scope": "company",
+        "product_id": 4222,
+        "my_entry": {},
+        "entries": [
+            {
+                "user_id": 15027,
+                "username": "Julius",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-bbed.svg",
+                "rank": 1,
+                "score": 95697
+            },
+            {
+                "user_id": 66830,
+                "username": "Jesus",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-b513.svg",
+                "rank": 2,
+                "score": 92293
+            },
+            {
+                "user_id": 11795,
+                "username": "Leanne",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-d2ce.svg",
+                "rank": 3,
+                "score": 90945
+            },
+            {
+                "user_id": 33853,
+                "username": "Lawrence",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9a80.svg",
+                "rank": 4,
+                "score": 87227
+            },
+            {
+                "user_id": 25873,
+                "username": "Cali",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-93d5.svg",
+                "rank": 5,
+                "score": 83173
+            },
+            {
+                "user_id": 3448,
+                "username": "Joesph",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-74b0.svg",
+                "rank": 6,
+                "score": 81349
+            },
+            {
+                "user_id": 31759,
+                "username": "Dedrick",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-2a98.svg",
+                "rank": 7,
+                "score": 70081
+            },
+            {
+                "user_id": 94236,
+                "username": "Hilma",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9198.svg",
+                "rank": 8,
+                "score": 66696
+            },
+            {
+                "user_id": 36409,
+                "username": "Rubye",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9a80.svg",
+                "rank": 9,
+                "score": 66590
+            },
+            {
+                "user_id": 46736,
+                "username": "Candido",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-1280.svg",
+                "rank": 10,
+                "score": 51878
+            },
+            {
+                "user_id": 65524,
+                "username": "Robb",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a5b3.svg",
+                "rank": 11,
+                "score": 48210
+            },
+            {
+                "user_id": 46786,
+                "username": "Linnie",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-6d67.svg",
+                "rank": 12,
+                "score": 47376
+            },
+            {
+                "user_id": 79232,
+                "username": "Priscilla",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-2a98.svg",
+                "rank": 13,
+                "score": 28237
+            },
+            {
+                "user_id": 10866,
+                "username": "Oleta",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-a5b3.svg",
+                "rank": 14,
+                "score": 25246
+            },
+            {
+                "user_id": 59657,
+                "username": "Randal",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-bbed.svg",
+                "rank": 15,
+                "score": 24350
+            },
+            {
+                "user_id": 33454,
+                "username": "Gus",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-bbed.svg",
+                "rank": 16,
+                "score": 7546
+            },
+            {
+                "user_id": 9997,
+                "username": "Cecile",
+                "image": "https://webcontent.attensi.com/images/avatars/animals/avatar-image-9198.svg",
+                "rank": 17,
+                "score": 7426
+            }
+        ]
+    }
+]

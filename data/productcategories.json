@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "title": "SIM Products",
+        "featured": false,
+        "products": [
+            {
+                "id": 1234,
+                "title": "Skills simulation",
+                "image": "https://webcontent.attensi.com/images/products//product-image-1a0110.png",
+                "active": true,
+                "description": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "WebGL"
+                ]
+            },
+            {
+                "id": 1337,
+                "title": "Behavior simulation",
+                "image": "https://webcontent.attensi.com/images/products//product-image-04be91.png",
+                "active": true,
+                "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "WebGL"
+                ]
+            },
+            {
+                "id": 4321,
+                "title": "Process simulation",
+                "image": "https://webcontent.attensi.com/images/products//product-image-396324.png",
+                "active": true,
+                "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "WebGL"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Non SIM Products",
+        "featured": false,
+        "products": [
+            {
+                "id": 5231,
+                "title": "Outstanding video",
+                "image": "https://webcontent.attensi.com/images/products//product-image-208bcc.png",
+                "active": true,
+                "description": "Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 5912,
+                "title": "Legendary Excel file",
+                "image": "https://webcontent.attensi.com/images/products//product-image-01e847.png",
+                "active": true,
+                "description": "Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 2112,
+                "title": "Enthralling E-learning",
+                "image": "https://webcontent.attensi.com/images/products//product-image-ca6e92.png",
+                "active": true,
+                "description": "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Delicious food products",
+        "featured": false,
+        "products": [
+            {
+                "id": 4222,
+                "title": "Banana Smoothie",
+                "image": "https://webcontent.attensi.com/images/products//product-image-c5633c2fc3f75773.png",
+                "active": true,
+                "description": "Candy canes bonbon lemon drops ice cream gummies cotton candy sesame snaps sweet. Sweet cake tiramisu pudding bear claw lollipop danish. Apple pie apple pie bear claw ice cream chocolate bar danish. Cotton candy topping tart macaroon tootsie roll jelly-o brownie.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 4223,
+                "title": "Fruit pop",
+                "image": "https://webcontent.attensi.com/images/products//product-image-59252d951aee6ff3.png",
+                "active": true,
+                "description": "Shortbread cotton candy soufflé candy canes shortbread macaroon croissant toffee sugar plum. Cookie carrot cake cake gingerbread dessert. Marshmallow donut sugar plum sugar plum croissant pie powder. Gingerbread danish tart donut biscuit marzipan jujubes apple pie.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 4224,
+                "title": "Strawberry icicles",
+                "image": "https://webcontent.attensi.com/images/products//product-image-6a953b374e09c649.png",
+                "active": true,
+                "description": "Lemon drops candy bear claw chocolate bar marzipan dragée. Pudding jelly fruitcake ice cream wafer. Muffin tootsie roll dragée jelly gummi bears apple pie. Gummi bears tiramisu cotton candy tootsie roll lemon drops brownie gummies dragée sesame snaps.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 4225,
+                "title": "Pointy icecream",
+                "image": "https://webcontent.attensi.com/images/products//product-image-f8dc6c60cb7339c7.png",
+                "active": true,
+                "description": "Cupcake ipsum dolor sit amet caramels muffin I love. Soufflé lemon drops chocolate donut cotton candy. Sweet jelly beans croissant gummi bears marzipan pudding I love toffee I love.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            },
+            {
+                "id": 4226,
+                "title": "Cherry berry",
+                "image": "https://webcontent.attensi.com/images/products//product-image-672ac93aacc93e1c.png",
+                "active": true,
+                "description": "Chocolate cake pastry candy canes gummies halvah macaroon tiramisu. Candy canes icing marzipan sugar plum jujubes. I love tiramisu I love cookie carrot cake gummi bears dragée tootsie roll.",
+                "supported_platforms": [
+                    "iOS",
+                    "Android",
+                    "Windows",
+                    "Mac"
+                ]
+            }
+        ]
+
+    }
+]
+
+
+
+
