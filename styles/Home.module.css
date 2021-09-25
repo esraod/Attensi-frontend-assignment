@@ -5,8 +5,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100%;
-  overflow: hidden;
+
+  overflow: scroll;
   width: 100vw;
 }
 

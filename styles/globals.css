@@ -41,10 +41,11 @@ main {
 }
 /* popup */
 .modal {
+  /* min-width: 100vh; */
   height: 100%;
   width: 100vw;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   right: 0;
@@ -53,6 +54,8 @@ main {
   color: black;
   font-size: 12px;
   display: flex;
+  bottom: 0;
+  top: 0;
 }
 
 .popup {
