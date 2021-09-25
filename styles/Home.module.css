@@ -5,12 +5,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 100%;
+  overflow: hidden;
+  width: 100vw;
 }
 
 .main {
-  padding: 5rem 0;
-  flex: 1;
+  padding: 5rem 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;

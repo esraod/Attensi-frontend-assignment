@@ -18,17 +18,28 @@ export default function Home() {
 
       <main className={styles.main}>
         {productcategories.map((category) => (
-          <div key={category.id}>
-            {category.title}
-            <ul>
+          <div key={category.id} style={{ width: '70%', minWidth: '320px' }}>
+            <h2>{category.title}</h2>
+            <div className="category-container">
               {category.products.map((product) => (
-                <li onClick={() => setPopup(product)} key={product.id}>
-                  {product.title}
-                  {product.type}
-                  <img style={{ height: '48px' }} src={product.image} />
-                </li>
+                <div
+                  className="product"
+                  onClick={() => setPopup(product)}
+                  key={product.id}
+                >
+                  <img
+                    style={{
+                      height: 'fit-content',
+                      width: '90%',
+                      margin: 'auto',
+                    }}
+                    src={product.image}
+                  />
+                  <div>{product.title}</div>
+                  <div>{product.type}</div>
+                </div>
               ))}
-            </ul>
+            </div>
           </div>
         ))}
       </main>
