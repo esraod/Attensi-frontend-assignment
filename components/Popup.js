@@ -1,6 +1,7 @@
 import React from 'react'
 import leaderboards from '../data/leaderboards.json'
 import { useEffect } from 'react'
+import Image from 'next/image'
 
 export default function Popup({ data, setPopup }) {
   useLockBodyScroll(data)
@@ -21,7 +22,7 @@ export default function Popup({ data, setPopup }) {
           </div>
           <div>
             <h3>Available on the following devices: </h3>
-            {data.supported_platforms}
+            {data.supported_platforms.join(', ')}
           </div>
 
           <div>
@@ -45,7 +46,7 @@ export default function Popup({ data, setPopup }) {
                               alt="User avatar"
                               src={entry.image}
                             />
-                            <div className="username">{entry.username}</div>{' '}
+                            <div className="username">{entry.username}</div>
                             <div className="score">{entry.score}</div>
                           </div>
                         </>
@@ -62,7 +63,7 @@ export default function Popup({ data, setPopup }) {
                             alt="User avatar"
                             src={entry.image}
                           />
-                          <div className="username">{entry.username}</div>{' '}
+                          <div className="username">{entry.username}</div>
                           <div className="score">{entry.score}</div>
                         </div>
                       </>
